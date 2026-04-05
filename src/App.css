@@ -1,0 +1,17 @@
+.box{
+  text-align: center;
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.selectNumber-container{
+  display: flex;
+  justify-content: center;
+}
+
+.selected{
+  background-color: black;
+  color:white
+}

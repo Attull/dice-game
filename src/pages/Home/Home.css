@@ -1,0 +1,15 @@
+.home-container{
+    display: flex;
+    justify-content:center;
+}
+
+.home-container-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-container-text h1{
+    font-size: 55px;
+}
